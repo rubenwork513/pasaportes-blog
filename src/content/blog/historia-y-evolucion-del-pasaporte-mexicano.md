@@ -1,11 +1,9 @@
 ---
-title: "Every Next Level of Your Life Will Demand a Different You"
+title: "Historia y evolución del pasaporte mexicano"
 excerpt: "Some description"
 publishDate: "2022-11-24T11:39:36.050Z"
-image: "https://images.unsplash.com/photo-1501747315-124a0eaca060?auto=format&fit=crop&w=987&h=987"
-category: "personal"
-author: "joshua-wood"
-tags: [tag1, tag2, tag3]
+image: "https://ovaciones.com/wp-content/uploads/2024/01/ovaciones-47-1.png"
+category: "pasaportes"
 ---
 
 **Reinvention often comes in spurts, after a long period of silence. Just as modern architecture recently enjoyed a comeback, brand architecture, a field with well-established principles for decades, is back in the limelight.**
